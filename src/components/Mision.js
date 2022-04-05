@@ -1,4 +1,3 @@
-import mac from '../img/mac.png'
 import sipro from '../img/sipro.png'
 
 function Mision({datos}){

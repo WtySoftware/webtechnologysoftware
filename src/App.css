@@ -96,15 +96,21 @@ button.btn-second{
 .copyright{
   font-size: 12px;
 }
-.designBg, .developBg{
+.infoBgImagen{
   background-repeat: no-repeat;
   background-size: cover;
+}
+.analisisBg{
+  background-image: url(./img/analisis.jpg);
 }
 .designBg{
   background-image: url(./img/appdesign.jpg);
 }
 .developBg{
   background-image: url(./img/dev.jpg);
+}
+.testingBg{
+  background-image: url(./img/test.png);
 }
 .altura{
   min-height:550px ;

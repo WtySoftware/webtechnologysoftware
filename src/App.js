@@ -16,7 +16,7 @@ import Footer from './components/Footer';
 function App() {
 
 const data = Data()
-const {banner,analytic,design,developer,parallaxOne,parallaxTwo,mision,about} = data;
+const {banner,analytic,design,developer,testing,parallaxOne,parallaxTwo,mision,about} = data;
 
   return (
     <>
@@ -26,6 +26,7 @@ const {banner,analytic,design,developer,parallaxOne,parallaxTwo,mision,about} = 
       <Info datos={design} />
       <Parallax datos={parallaxOne} />
       <Info datos={developer} />
+      <Info datos={testing} />
       <Parallax datos={parallaxTwo} />
       <Mision datos={mision} />
       <About />

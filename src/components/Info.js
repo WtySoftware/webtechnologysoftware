@@ -1,9 +1,7 @@
-import ImgDesign from '../img/appdesign.jpg'
-import ImgDev from '../img/dev.jpg'
 
 function Info({datos}){
 
-    const {imgPosition,title,content} = datos
+    const {imgPosition,imagen,title,content} = datos
    
     return(
         <div className="container-fluid ">
@@ -12,7 +10,7 @@ function Info({datos}){
                     <h1>{title}</h1>
                     <p>{content}</p>
                 </div>
-                <div className={imgPosition === "derecha" ? "order-first col-lg-6 col-md-4 developBg" : "order-last col-lg-6 col-md-4 designBg"}>
+                <div className={ imgPosition === "derecha" ? "order-first col-lg-6 col-md-4 infoBgImagen " + imagen : "order-last col-lg-6 col-md-4 infoBgImagen " + imagen} >
                 </div>
             </div>
         </div>
