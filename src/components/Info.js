@@ -10,7 +10,7 @@ function Info({datos}){
                     <h1>{title}</h1>
                     <p>{content}</p>
                 </div>
-                <div className={ imgPosition === "derecha" ? "order-first col-lg-6 col-md-4 infoBgImagen " + imagen : "order-last col-lg-6 col-md-4 infoBgImagen " + imagen} >
+                <div className={ imgPosition === "izquierda" ? "order-first col-lg-6 col-md-4 infoBgImagen " + imagen : "order-last col-lg-6 col-md-4 infoBgImagen " + imagen} >
                 </div>
             </div>
         </div>

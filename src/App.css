@@ -111,6 +111,7 @@ button.btn-second{
 }
 .testingBg{
   background-image: url(./img/test.png);
+  background-position: bottom;
 }
 .altura{
   min-height:550px ;
