@@ -3,20 +3,25 @@ export default function data(){
         banner:{
             welcome:"Bienvenido a",
             title:"Web Technology Software",
-            content:"Nos enfocamos en desarrollar Aplicaciones y Software a su medida analizando y estudiando cada punto del proyecto con detenimiento planificando una ruta de diseño, desarrollo, pruebas y despliegue  que se ajuste a sus necesidades. ",
+            content:"Nos enfocamos en desarrollar Aplicaciones o Software a su medida analizando cada requerimiento, estudiando cada punto del proyecto con detenimiento para planificar la mejor ruta de diseño, desarrollo, pruebas y despliegue que se ajuste a sus necesidades.",
+        },
+        analytic:{
+            imgPosition:"derecha",
+            title:"Analisis",
+            content:"Esta es la fase crítica de todo software. Para nosotros es importante que toda la información referente a las necesidades de nuestros clientes este bien organizada  y entendida por el equipo, por esto dedicamos mucho esmero en profundizar en la toma de los requerimientos para cada proyecto y en el seguimiento de cada uno de los objetivos que se obtienen de dicho análisis.",
         },
         design:{
-            zone:"design",
-            title:"Design App",
-            content:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis tristique risus vitae imperdiet. Aliquam erat volutpat. Etiam porttitor, quam ac rhoncus mollis, sem libero pharetra elit, quis semper erat orci quis nibh. Quisque est sem, euismod vel velit eu, semper dictum turpis. Sed semper quam velit, vitae porttitor ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis tristique risus vitae imperdiet. Aliquam erat volutpat. Etiam porttitor, quam ac rhoncus mollis, sem libero pharetra elit, quis semper erat orci quis nibh. Quisque est sem, euismod vel velit eu, semper dictum turpis. Sed semper quam velit, vitae porttitor ipsum.",
+            imgPosition:"izquierda",
+            title:"Diseño UI/UX",
+            content:"Al momento de diseñar tomamos tus ideas y la hacemos realidad, basandonos en todos los requerimientos. Nuestra meta es materializar una Interfaz de Usuario (User Interface) que invite a navegar de forma natural en la aplicacion dando una Experiencia al Usuario (User Experience) agradable e intuitiva sobre el uso de la aplicacion o software. Cada detalle es fundamental por eso nos gusta que nos acompañes en el proceso de diseño y diseñes junto a nosotros.",
         },
         developer:{
-            zone:"develop",
-            title:"Developer",
+            imgPosition:"derecha",
+            title:"Desarrollo",
             content:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis tristique risus vitae imperdiet. Aliquam erat volutpat. Etiam porttitor, quam ac rhoncus mollis, sem libero pharetra elit, quis semper erat orci quis nibh. Quisque est sem, euismod vel velit eu, semper dictum turpis. Sed semper quam velit, vitae porttitor ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis tristique risus vitae imperdiet. Aliquam erat volutpat. Etiam porttitor, quam ac rhoncus mollis, sem libero pharetra elit, quis semper erat orci quis nibh. Quisque est sem, euismod vel velit eu, semper dictum turpis. Sed semper quam velit, vitae porttitor ipsum.",
         },
         parallaxOne:{
-            title:"From Design to Code",
+            title:"De Diseño a Codigo",
             content:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis tristique risus vitae imperdiet. Aliquam erat volutpat. Etiam porttitor, quam ac rhoncus mollis, sem libero pharetra elit, quis semper erat orci quis nibh. Quisque est sem, euismod vel velit eu, semper dictum turpis. Sed semper quam velit, vitae porttitor ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis tristique risus vitae imperdiet. Aliquam erat volutpat. Etiam porttitor, quam ac rhoncus mollis, sem libero pharetra elit, quis semper erat orci quis nibh. Quisque est sem, euismod vel velit eu, semper dictum turpis. Sed semper quam velit, vitae porttitor ipsum.",
             bg: "parallaxBgOne"
         },
@@ -26,7 +31,7 @@ export default function data(){
             bg: "parallaxBgTwo"
         },
         mision:{
-            title:"Mensaje del Producto y mision",
+            title:"Nuestra Mision",
             content:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis tristique risus vitae imperdiet. Aliquam erat volutpat. Etiam porttitor, quam ac rhoncus mollis, sem libero pharetra elit, quis semper erat orci quis nibh. Quisque est sem, euismod vel velit eu, semper dictum turpis. Sed semper quam velit, vitae porttitor ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis tristique risus vitae imperdiet. Aliquam erat volutpat. Etiam porttitor, quam ac rhoncus mollis, sem libero pharetra elit, quis semper erat orci quis nibh. Quisque est sem, euismod vel velit eu, semper dictum turpis. Sed semper quam velit, vitae porttitor ipsum.",
         },
         about:{

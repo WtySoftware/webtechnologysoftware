@@ -16,12 +16,13 @@ import Footer from './components/Footer';
 function App() {
 
 const data = Data()
-const {banner,design,developer,parallaxOne,parallaxTwo,mision,about} = data;
+const {banner,analytic,design,developer,parallaxOne,parallaxTwo,mision,about} = data;
 
   return (
     <>
       <Menu/>
       <Banner banner={banner} /> 
+      <Info datos={analytic} />
       <Info datos={design} />
       <Parallax datos={parallaxOne} />
       <Info datos={developer} />

@@ -97,7 +97,6 @@ button.btn-second{
   font-size: 12px;
 }
 .designBg, .developBg{
-
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -106,4 +105,7 @@ button.btn-second{
 }
 .developBg{
   background-image: url(./img/dev.jpg);
+}
+.altura{
+  min-height:550px ;
 }
