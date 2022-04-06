@@ -2,7 +2,7 @@ export default function data(){
     return{
         banner:{
             id:0,
-            welcome:"Test Bienvenido a",
+            welcome:"Hello Bienvenido a",
             title:"Web Technology Software",
             content:"Nos enfocamos en desarrollar Aplicaciones o Software a su medida analizando cada requerimiento, estudiando cada punto del proyecto con detenimiento para planificar la mejor ruta de diseño, desarrollo, pruebas y despliegue que se ajuste a sus necesidades.",
         },
