@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/WtySoftware.github.io/webtechnologysoftware/static/css/main.40efc0d8.chunk.css",
-    "main.js": "/WtySoftware.github.io/webtechnologysoftware/static/js/main.47c32e5d.chunk.js",
-    "main.js.map": "/WtySoftware.github.io/webtechnologysoftware/static/js/main.47c32e5d.chunk.js.map",
-    "runtime-main.js": "/WtySoftware.github.io/webtechnologysoftware/static/js/runtime-main.f960755e.js",
-    "runtime-main.js.map": "/WtySoftware.github.io/webtechnologysoftware/static/js/runtime-main.f960755e.js.map",
-    "static/css/2.9d05baa6.chunk.css": "/WtySoftware.github.io/webtechnologysoftware/static/css/2.9d05baa6.chunk.css",
-    "static/js/2.ab06a129.chunk.js": "/WtySoftware.github.io/webtechnologysoftware/static/js/2.ab06a129.chunk.js",
-    "static/js/2.ab06a129.chunk.js.map": "/WtySoftware.github.io/webtechnologysoftware/static/js/2.ab06a129.chunk.js.map",
-    "static/js/3.440e089a.chunk.js": "/WtySoftware.github.io/webtechnologysoftware/static/js/3.440e089a.chunk.js",
-    "static/js/3.440e089a.chunk.js.map": "/WtySoftware.github.io/webtechnologysoftware/static/js/3.440e089a.chunk.js.map",
-    "index.html": "/WtySoftware.github.io/webtechnologysoftware/index.html",
-    "static/css/2.9d05baa6.chunk.css.map": "/WtySoftware.github.io/webtechnologysoftware/static/css/2.9d05baa6.chunk.css.map",
-    "static/css/main.40efc0d8.chunk.css.map": "/WtySoftware.github.io/webtechnologysoftware/static/css/main.40efc0d8.chunk.css.map",
-    "static/js/2.ab06a129.chunk.js.LICENSE.txt": "/WtySoftware.github.io/webtechnologysoftware/static/js/2.ab06a129.chunk.js.LICENSE.txt",
-    "static/media/Logo.620a52bb.svg": "/WtySoftware.github.io/webtechnologysoftware/static/media/Logo.620a52bb.svg",
-    "static/media/App.css": "/WtySoftware.github.io/webtechnologysoftware/static/media/test.987732f0.png",
-    "static/media/sipro.db5e51ef.png": "/WtySoftware.github.io/webtechnologysoftware/static/media/sipro.db5e51ef.png"
+    "main.css": "/wtysoftware.github.io/webtechnologysoftware/static/css/main.af78ba2e.chunk.css",
+    "main.js": "/wtysoftware.github.io/webtechnologysoftware/static/js/main.47c32e5d.chunk.js",
+    "main.js.map": "/wtysoftware.github.io/webtechnologysoftware/static/js/main.47c32e5d.chunk.js.map",
+    "runtime-main.js": "/wtysoftware.github.io/webtechnologysoftware/static/js/runtime-main.1d663ee4.js",
+    "runtime-main.js.map": "/wtysoftware.github.io/webtechnologysoftware/static/js/runtime-main.1d663ee4.js.map",
+    "static/css/2.9d05baa6.chunk.css": "/wtysoftware.github.io/webtechnologysoftware/static/css/2.9d05baa6.chunk.css",
+    "static/js/2.ab06a129.chunk.js": "/wtysoftware.github.io/webtechnologysoftware/static/js/2.ab06a129.chunk.js",
+    "static/js/2.ab06a129.chunk.js.map": "/wtysoftware.github.io/webtechnologysoftware/static/js/2.ab06a129.chunk.js.map",
+    "static/js/3.440e089a.chunk.js": "/wtysoftware.github.io/webtechnologysoftware/static/js/3.440e089a.chunk.js",
+    "static/js/3.440e089a.chunk.js.map": "/wtysoftware.github.io/webtechnologysoftware/static/js/3.440e089a.chunk.js.map",
+    "index.html": "/wtysoftware.github.io/webtechnologysoftware/index.html",
+    "static/css/2.9d05baa6.chunk.css.map": "/wtysoftware.github.io/webtechnologysoftware/static/css/2.9d05baa6.chunk.css.map",
+    "static/css/main.af78ba2e.chunk.css.map": "/wtysoftware.github.io/webtechnologysoftware/static/css/main.af78ba2e.chunk.css.map",
+    "static/js/2.ab06a129.chunk.js.LICENSE.txt": "/wtysoftware.github.io/webtechnologysoftware/static/js/2.ab06a129.chunk.js.LICENSE.txt",
+    "static/media/Logo.620a52bb.svg": "/wtysoftware.github.io/webtechnologysoftware/static/media/Logo.620a52bb.svg",
+    "static/media/App.css": "/wtysoftware.github.io/webtechnologysoftware/static/media/test.987732f0.png",
+    "static/media/sipro.db5e51ef.png": "/wtysoftware.github.io/webtechnologysoftware/static/media/sipro.db5e51ef.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f960755e.js",
+    "static/js/runtime-main.1d663ee4.js",
     "static/css/2.9d05baa6.chunk.css",
     "static/js/2.ab06a129.chunk.js",
-    "static/css/main.40efc0d8.chunk.css",
+    "static/css/main.af78ba2e.chunk.css",
     "static/js/main.47c32e5d.chunk.js"
   ]
 }
