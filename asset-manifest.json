@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/WtySoftware.github.io/static/css/main.fe0edfb2.chunk.css",
-    "main.js": "/WtySoftware.github.io/static/js/main.47c32e5d.chunk.js",
-    "main.js.map": "/WtySoftware.github.io/static/js/main.47c32e5d.chunk.js.map",
-    "runtime-main.js": "/WtySoftware.github.io/static/js/runtime-main.51c5eac2.js",
-    "runtime-main.js.map": "/WtySoftware.github.io/static/js/runtime-main.51c5eac2.js.map",
-    "static/css/2.9d05baa6.chunk.css": "/WtySoftware.github.io/static/css/2.9d05baa6.chunk.css",
-    "static/js/2.ab06a129.chunk.js": "/WtySoftware.github.io/static/js/2.ab06a129.chunk.js",
-    "static/js/2.ab06a129.chunk.js.map": "/WtySoftware.github.io/static/js/2.ab06a129.chunk.js.map",
-    "static/js/3.440e089a.chunk.js": "/WtySoftware.github.io/static/js/3.440e089a.chunk.js",
-    "static/js/3.440e089a.chunk.js.map": "/WtySoftware.github.io/static/js/3.440e089a.chunk.js.map",
-    "index.html": "/WtySoftware.github.io/index.html",
-    "static/css/2.9d05baa6.chunk.css.map": "/WtySoftware.github.io/static/css/2.9d05baa6.chunk.css.map",
-    "static/css/main.fe0edfb2.chunk.css.map": "/WtySoftware.github.io/static/css/main.fe0edfb2.chunk.css.map",
-    "static/js/2.ab06a129.chunk.js.LICENSE.txt": "/WtySoftware.github.io/static/js/2.ab06a129.chunk.js.LICENSE.txt",
-    "static/media/Logo.620a52bb.svg": "/WtySoftware.github.io/static/media/Logo.620a52bb.svg",
-    "static/media/App.css": "/WtySoftware.github.io/static/media/test.987732f0.png",
-    "static/media/sipro.db5e51ef.png": "/WtySoftware.github.io/static/media/sipro.db5e51ef.png"
+    "main.css": "/WtySoftware.github.io/webtechnologysoftware/static/css/main.40efc0d8.chunk.css",
+    "main.js": "/WtySoftware.github.io/webtechnologysoftware/static/js/main.47c32e5d.chunk.js",
+    "main.js.map": "/WtySoftware.github.io/webtechnologysoftware/static/js/main.47c32e5d.chunk.js.map",
+    "runtime-main.js": "/WtySoftware.github.io/webtechnologysoftware/static/js/runtime-main.f960755e.js",
+    "runtime-main.js.map": "/WtySoftware.github.io/webtechnologysoftware/static/js/runtime-main.f960755e.js.map",
+    "static/css/2.9d05baa6.chunk.css": "/WtySoftware.github.io/webtechnologysoftware/static/css/2.9d05baa6.chunk.css",
+    "static/js/2.ab06a129.chunk.js": "/WtySoftware.github.io/webtechnologysoftware/static/js/2.ab06a129.chunk.js",
+    "static/js/2.ab06a129.chunk.js.map": "/WtySoftware.github.io/webtechnologysoftware/static/js/2.ab06a129.chunk.js.map",
+    "static/js/3.440e089a.chunk.js": "/WtySoftware.github.io/webtechnologysoftware/static/js/3.440e089a.chunk.js",
+    "static/js/3.440e089a.chunk.js.map": "/WtySoftware.github.io/webtechnologysoftware/static/js/3.440e089a.chunk.js.map",
+    "index.html": "/WtySoftware.github.io/webtechnologysoftware/index.html",
+    "static/css/2.9d05baa6.chunk.css.map": "/WtySoftware.github.io/webtechnologysoftware/static/css/2.9d05baa6.chunk.css.map",
+    "static/css/main.40efc0d8.chunk.css.map": "/WtySoftware.github.io/webtechnologysoftware/static/css/main.40efc0d8.chunk.css.map",
+    "static/js/2.ab06a129.chunk.js.LICENSE.txt": "/WtySoftware.github.io/webtechnologysoftware/static/js/2.ab06a129.chunk.js.LICENSE.txt",
+    "static/media/Logo.620a52bb.svg": "/WtySoftware.github.io/webtechnologysoftware/static/media/Logo.620a52bb.svg",
+    "static/media/App.css": "/WtySoftware.github.io/webtechnologysoftware/static/media/test.987732f0.png",
+    "static/media/sipro.db5e51ef.png": "/WtySoftware.github.io/webtechnologysoftware/static/media/sipro.db5e51ef.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.51c5eac2.js",
+    "static/js/runtime-main.f960755e.js",
     "static/css/2.9d05baa6.chunk.css",
     "static/js/2.ab06a129.chunk.js",
-    "static/css/main.fe0edfb2.chunk.css",
+    "static/css/main.40efc0d8.chunk.css",
     "static/js/main.47c32e5d.chunk.js"
   ]
 }
