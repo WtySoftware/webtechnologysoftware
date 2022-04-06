@@ -1,3 +1,5 @@
+import ReactWhatsapp from 'react-whatsapp';
+
 function Footer({datos}){
 
     const {title,content} = datos
@@ -9,7 +11,10 @@ function Footer({datos}){
                 <div className="col-lg-6 col-md-8  mx-auto align-self-center">
                     <h1 className="">{title}</h1>
                     <p>{content}</p>
-                    <button className="btn-second">Escribenos</button>
+                    <ReactWhatsapp number="58-412-615-5553" message="" style={{background: "transparent",border:0}} >
+                        <button className="btn-second">Escribenos</button>
+                    </ReactWhatsapp>
+                   
                 </div>
             </div>
             <div className="footerIn ">

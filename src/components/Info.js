@@ -1,11 +1,11 @@
 function Info({datos}){
 
-    const {id,imgPosition,imagen,icono,title,content} = datos
+    const {id,imgPosition,imagen,title,content} = datos
    
     return(
         <div id={id} key={id} className="container-fluid ">
             <div className="row altura">
-                <div className="col-lg-6 col-md-8 align-self-center " style={{padding:"0px 75px"}}>
+                <div className="col-lg-6 col-md-8 align-self-center " style={{padding:"50px 75px"}}>
                     
                   
                     <h1>{title}</h1>

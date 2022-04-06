@@ -13,13 +13,15 @@ import Mision from './components/Mision';
 import About from './components/About';
 import Footer from './components/Footer';
 
+
+
 function App() {
 
 const data = Data()
 const {banner,analytic,design,developer,testing,parallaxOne,parallaxTwo,mision,about,footer} = data;
 
   return (
-    <>
+    <div className='fadeIn'>
       <Menu/>
       <Banner banner={banner} /> 
       <Info datos={analytic} />
@@ -32,7 +34,8 @@ const {banner,analytic,design,developer,testing,parallaxOne,parallaxTwo,mision,a
       <About datos={about} />
       <Footer datos={footer} />
 
-    </>
+
+    </div>
     
   )
 }

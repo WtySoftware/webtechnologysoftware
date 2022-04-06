@@ -10,7 +10,6 @@ export default function data(){
             id:1,
             imgPosition:"derecha",
             imagen:"analisisBg",
-            icono:"faDiagnoses",
             title:"Analisis",
             content:"Esta es la fase crítica de todo software. Para nosotros es importante que toda la información referente a las necesidades de nuestros clientes este bien organizada  y entendida por el equipo, por esto dedicamos mucho esmero en profundizar en la toma de los requerimientos para cada proyecto y en el seguimiento de cada uno de los objetivos que se obtienen de dicho análisis.",
         },

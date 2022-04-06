@@ -3,22 +3,28 @@
 *{
   font-family: 'Righteous', cursive;
 }
+.fadeIn{
+  animation: In 1.5s linear;
+}
+@keyframes In {
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
+}
 .bgMenu{
   background-color: #000;
   transition: .5s ease-in-out;
 }
 .hidenMenu{
-  top:-100px;
+  top:-110px;
 }
 .showMenu{
   top:0px;
 }
-.menuLogoHeight1{
-  height: 100%;
-}
-.menuLogoHeight2{
-  height: 50%;
-}
+
 .navbar-dark .navbar-nav .nav-link {
   color: aliceblue;
 }
@@ -114,6 +120,7 @@ button.btn-second{
 .infoBgImagen{
   background-repeat: no-repeat;
   background-size: cover;
+  min-height: 300px;
 }
 .analisisBg{
   background-image: url(./img/analisis.jpg);
