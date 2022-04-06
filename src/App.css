@@ -3,7 +3,22 @@
 *{
   font-family: 'Righteous', cursive;
 }
-
+.bgMenu{
+  background-color: #000;
+  transition: .5s ease-in-out;
+}
+.hidenMenu{
+  top:-100px;
+}
+.showMenu{
+  top:0px;
+}
+.menuLogoHeight1{
+  height: 100%;
+}
+.menuLogoHeight2{
+  height: 50%;
+}
 .navbar-dark .navbar-nav .nav-link {
   color: aliceblue;
 }
@@ -58,7 +73,7 @@
 .gray{
  
   background-color: #F7F7F7;
-  padding-top: 8%;
+  padding-top: 5%;
 }
 .white{
   background-color: white;
