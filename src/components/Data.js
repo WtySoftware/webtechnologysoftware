@@ -44,13 +44,13 @@ export default function data(){
         parallaxTwo:{
             id:6,
             title:"Nos enfocamos en",
-            content:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis tristique risus vitae imperdiet. Aliquam erat volutpat. Etiam porttitor, quam ac rhoncus mollis, sem libero pharetra elit, quis semper erat orci quis nibh. Quisque est sem, euismod vel velit eu, semper dictum turpis. Sed semper quam velit, vitae porttitor ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis tristique risus vitae imperdiet. Aliquam erat volutpat. Etiam porttitor, quam ac rhoncus mollis, sem libero pharetra elit, quis semper erat orci quis nibh. Quisque est sem, euismod vel velit eu, semper dictum turpis. Sed semper quam velit, vitae porttitor ipsum.",
+            content:"Aplicar una metodología que nos sirva de guía para la solución de problemas y así evitar las discrepancias entre lo que se tiene y lo que se desea, dándole sentido y vida a las ideas, siempre trabajando con la perspectiva de nuestros clientes como centro de todo.",
             bg: "parallaxBgTwo"
         },
         mision:{
             id:7,
             title:"Nuestra Mision",
-            content:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis tristique risus vitae imperdiet. Aliquam erat volutpat. Etiam porttitor, quam ac rhoncus mollis, sem libero pharetra elit, quis semper erat orci quis nibh. Quisque est sem, euismod vel velit eu, semper dictum turpis. Sed semper quam velit, vitae porttitor ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis tristique risus vitae imperdiet. Aliquam erat volutpat. Etiam porttitor, quam ac rhoncus mollis, sem libero pharetra elit, quis semper erat orci quis nibh. Quisque est sem, euismod vel velit eu, semper dictum turpis. Sed semper quam velit, vitae porttitor ipsum.",
+            content:"Aportar valor a nuestros clientes siempre enfocados en la calidad de lo que hacemos asi como brindar apoyo para encontrar soluciones a sus necesidades.",
         },
         about:{
             id:8,
