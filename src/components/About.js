@@ -2,11 +2,11 @@ import logo from '../img/logoBlack.png'
 
 function About({datos}){
 
-    const {title,content} = datos
+    const {id,title,content} = datos
 
 
     return(
-        <div className="container-fluid gray">
+        <div id={id} className="container-fluid gray">
             <div className="container text-center white py-5">
                 <h1>{title}</h1>
                 <hr className='linea mx-auto' />

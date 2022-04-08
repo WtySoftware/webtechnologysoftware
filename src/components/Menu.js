@@ -35,10 +35,10 @@ function Menu(){
                                 <a className="nav-link" href="#">Home</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">About</a>
+                                <a className="nav-link" href={"#"+1}>Service</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#">Service</a>
+                                <a className="nav-link" href={"#"+8}>About</a>
                             </li>
                             <li className="nav-item">
                                 <a className="nav-link" href={"#"+9}>Contact</a>
