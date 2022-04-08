@@ -138,3 +138,7 @@ button.btn-second{
 .altura{
   min-height:550px ;
 }
+.linea{
+  border: #FFE68D solid 3px;
+  width: 100px;
+}

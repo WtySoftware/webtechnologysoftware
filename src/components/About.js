@@ -9,6 +9,7 @@ function About({datos}){
         <div className="container-fluid gray">
             <div className="container text-center white py-5">
                 <h1>{title}</h1>
+                <hr className='linea mx-auto' />
                 <small>consectetur adipiscing elit. Mauris convallis</small><br />
                 <img src={logo} alt="" />
                 <h1 className='display-4'>Web Technology Software</h1>

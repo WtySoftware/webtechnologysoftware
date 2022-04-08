@@ -9,6 +9,7 @@ function Info({datos}){
                     
                   
                     <h1>{title}</h1>
+                    <hr className="linea" />
                     <p>{content}</p>
 
                 </div>

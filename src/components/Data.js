@@ -38,7 +38,7 @@ export default function data(){
             imgPosition:"izquierda",
             imagen:"testingBg",
             title:"Pruebas",
-            content:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis tristique risus vitae imperdiet. Aliquam erat volutpat. Etiam porttitor, quam ac rhoncus mollis, sem libero pharetra elit, quis semper erat orci quis nibh. Quisque est sem, euismod vel velit eu, semper dictum turpis. Sed semper quam velit, vitae porttitor ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis tristique risus vitae imperdiet. Aliquam erat volutpat. Etiam porttitor, quam ac rhoncus mollis, sem libero pharetra elit, quis semper erat orci quis nibh. Quisque est sem, euismod vel velit eu, semper dictum turpis. Sed semper quam velit, vitae porttitor ipsum.",
+            content:"Es indispensable tener control sobre el desarrollo y esto desde nuestro equipo se logra implementando pruebas tanto a nivel de la construcción del proyecto como desde la perspectiva del negocio basándonos en los requerimientos y en la información que recavamos durante la fase de análisis.",
         },
         
         parallaxTwo:{
