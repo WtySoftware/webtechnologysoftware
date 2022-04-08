@@ -55,7 +55,7 @@ export default function data(){
         about:{
             id:8,
             title:"Acerca de Nosotros",
-            content:"Somos un equipo con años de experiencia en diseño y desarrollo de aplicaciones. Nos encata lo que hacemos, amantes de la tecnologia y lo videojuego, el desarollo de software es algo que nos llena, cada cliente, cada desarrollo lo realizamos con el proposito de entregando grande resultados mientras disfrutamos lo que hacemos porque nuestra meta siempre sera el exito mutuo."
+            content:"Somos un equipo con años de experiencia en diseño y desarrollo de aplicaciones. Nos encanta lo que hacemos, amantes de la tecnología y lo videojuego, el desarrollo de software es algo que nos apasiona, cada cliente, cada desarrollo lo realizamos con el propósito de entregando grande resultados mientras disfrutamos lo que hacemos porque nuestra meta siempre será el éxito mutuo."
         },
         footer:{
             id:9,
