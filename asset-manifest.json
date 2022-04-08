@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/webtechnologysoftware/static/css/main.26738a84.chunk.css",
-    "main.js": "/webtechnologysoftware/static/js/main.47c32e5d.chunk.js",
-    "main.js.map": "/webtechnologysoftware/static/js/main.47c32e5d.chunk.js.map",
+    "main.css": "/webtechnologysoftware/static/css/main.9d99a265.chunk.css",
+    "main.js": "/webtechnologysoftware/static/js/main.f96a7356.chunk.js",
+    "main.js.map": "/webtechnologysoftware/static/js/main.f96a7356.chunk.js.map",
     "runtime-main.js": "/webtechnologysoftware/static/js/runtime-main.44bc55f3.js",
     "runtime-main.js.map": "/webtechnologysoftware/static/js/runtime-main.44bc55f3.js.map",
     "static/css/2.9d05baa6.chunk.css": "/webtechnologysoftware/static/css/2.9d05baa6.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.440e089a.chunk.js.map": "/webtechnologysoftware/static/js/3.440e089a.chunk.js.map",
     "index.html": "/webtechnologysoftware/index.html",
     "static/css/2.9d05baa6.chunk.css.map": "/webtechnologysoftware/static/css/2.9d05baa6.chunk.css.map",
-    "static/css/main.26738a84.chunk.css.map": "/webtechnologysoftware/static/css/main.26738a84.chunk.css.map",
+    "static/css/main.9d99a265.chunk.css.map": "/webtechnologysoftware/static/css/main.9d99a265.chunk.css.map",
     "static/js/2.ab06a129.chunk.js.LICENSE.txt": "/webtechnologysoftware/static/js/2.ab06a129.chunk.js.LICENSE.txt",
     "static/media/Logo.620a52bb.svg": "/webtechnologysoftware/static/media/Logo.620a52bb.svg",
     "static/media/App.css": "/webtechnologysoftware/static/media/test.987732f0.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.44bc55f3.js",
     "static/css/2.9d05baa6.chunk.css",
     "static/js/2.ab06a129.chunk.js",
-    "static/css/main.26738a84.chunk.css",
-    "static/js/main.47c32e5d.chunk.js"
+    "static/css/main.9d99a265.chunk.css",
+    "static/js/main.f96a7356.chunk.js"
   ]
 }
