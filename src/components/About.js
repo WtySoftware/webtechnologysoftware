@@ -10,7 +10,7 @@ function About({datos}){
             <div className="container text-center white py-5">
                 <h1>{title}</h1>
                 <hr className='linea mx-auto' />
-                <small>consectetur adipiscing elit. Mauris convallis</small><br />
+                <small>Un equipo con grandes metas</small><br />
                 <img src={logo} alt="" />
                 <h1 className='display-4'>Web Technology Software</h1>
                 <p className='px-5'>{content}</p>

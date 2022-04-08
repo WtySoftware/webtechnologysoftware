@@ -18,7 +18,7 @@ function Footer({datos}){
                 </div>
             </div>
             <div className="footerIn ">
-                <p className="copyright text-center m-0">Copyright © 2022 Web Tecnology Software <br /> Todos los derechos reservados</p>
+                <p className="copyright text-center m-0">Copyright © 2022 Web Technology Software <br /> Todos los derechos reservados</p>
             </div>
 
         </footer>
