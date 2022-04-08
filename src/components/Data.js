@@ -38,7 +38,7 @@ export default function data(){
             imgPosition:"izquierda",
             imagen:"testingBg",
             title:"Pruebas",
-            content:"es indispensable tener control sobre el desarrollo y esto desde nuestro equipo se logra implementando pruebas tanto a nivel de la construcción del proyecto como desde la perspectiva del negocio basándonos en los requerimientos y en la información que recavamos durante la fase de análisis.",
+            content:"Es indispensable tener control sobre el desarrollo y esto desde nuestro equipo se logra implementando pruebas tanto a nivel de la construcción del proyecto como desde la perspectiva del negocio basándonos en los requerimientos y en la información que recavamos durante la fase de análisis.",
         },
         
         parallaxTwo:{
